@@ -20,4 +20,15 @@
 **3D viewer (Bottom view)**  
 <img width="711" height="704" alt="image" src="https://github.com/user-attachments/assets/83bc02b9-355c-44f1-9d05-57880c72b44e" />
 
+<details>
+<summary>BOM</summary>
 
+
+ 
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| ---- | ------- | -------- | ---------------- | ---- | ----------- |
+| PCB + stencil | all components are on this | 1 | 34.95 | https://jlcpcb.com | jlcpcb |
+|ALL components | all components that are on pcb | 1 | 35.54 | https://lcsc.com | lcsc |
+|               |                   | Total cost | 70.49 |  |  |
+
+</details>
