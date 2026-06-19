@@ -5,6 +5,10 @@
 
 - Supports any firmware compatible with rpi pico, just make sure to select 16mb flash to use full storage.  
 
+
+
+###### BOM is at the very bottom
+
 ## Pictures  
 
 
