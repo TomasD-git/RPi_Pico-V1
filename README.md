@@ -3,6 +3,7 @@
 ## Description  
 **Normal RPi with 16Mb/128Mbit of flash (thats 8x more than clasic rpi pico)**  
 
+- Supports any firmware compatible with rpi pico, just make sure to select 16mb flash to use full storage.  
 
 ## Pictures  
 
