@@ -1,10 +1,11 @@
 # RPi_Pico-V1  
 
 ## Description  
-**Normal RPi with 16Mb/128Mbit of flash (thats 8x more than clasic rpi pico)**  
+**Normal RPi pico with 16Mb/128Mbit of flash (which is 8x more than clasic rpi pico)**  
 
-- Supports any firmware compatible with rpi pico, just make sure to select 16mb flash to use full storage.  
+- Supports any firmware compatible with rpi pico, just make sure to select 16mb flash to use full storage.    
 
+**i made this project because RPi picos dont have usb-c port and have less storage**  
 
 
 ###### BOM is at the very bottom
