@@ -8,7 +8,8 @@
 **i made this project because RPi picos dont have usb-c port and have less storage**  
 
 
-###### BOM is at the very bottom
+###### BOM is at the very bottom  
+###### lcsc BOM is in production folder  
 
 ## Pictures  
 
